@@ -1,5 +1,9 @@
 # Password Vault App (Python)
 
+<p align="center">
+  <img src="screenshot1.png" width="450"/>
+</p>
+
 ## Security Overview  
 - Encrypts passwords using Fernet (PBKDF2 + AES)  
 - Master key required to decrypt  
