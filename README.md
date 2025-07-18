@@ -1,7 +1,7 @@
 # Password Vault App (Python)
 
 <p align="center">
-  <img src="screenshot1.png" width="450"/>
+  <img src="screenshot1.png" width="250"/>
 </p>
 
 ## Security Overview  
